@@ -35,7 +35,7 @@
 `Git` • `Axios` • `Full-Stack Dev Setup`
 
 <div align="center">
-  <img src="https://i.imgur.com/yF7q7Gk.gif" width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGN4cXV4MHRoemtiem53NHF0aXdobTBudTJwZjJtdGYzMjE1cDE4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X4SS63h7k5umY/giphy.gif" width="350"/>
 </div>
 
 ---

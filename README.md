@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Web Developer | Next.js Explorer</h3>
 
 <div align="center">
-  <img src="[https://i.imgur.com/9b8kL0H.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RvYnl0cXJ6OXF4ZmcwcWd5OGdwNmZ3a2Nid3JjNzlhMjJ5dTZwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k8kITi9SAwe9JWbUaH/giphy.gif)" width="400" alt="retro-computer" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxtYWE0d3o0a2YzaHlybnRrZGVkOW14dHRneXVvcjBnN3F3aWJqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf1RA1jNSpbbuDE40m/giphy.gif" width="400" alt="retro-computer" />
 </div>
 
 ---

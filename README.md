@@ -1,191 +1,222 @@
 <div align="center">
 
-# Sumit Dixit
+<img src="./assets/blueprint-hero.svg" alt="Sumit Dixit backend engineering blueprint banner" width="100%" />
 
-### Backend Developer | BCA Student | Building production-minded web systems
+<br />
 
-I am a 2nd-year BCA student at VIPS College, GGSIPU, focused on backend engineering, scalable web applications, and infrastructure fundamentals.
-
-My current work is centered around designing REST APIs, authentication systems, RBAC, multi-tenant application flows, database-backed services, caching, rate limiting, and deployment-ready backend architectures.
-
-<p>
-  <a href="mailto:sumitdixit00007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
-  </a>
-  <a href="https://timus.co.in">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Sumitdixit2">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumitdixit-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/SumitDixit00007">
-    <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8" alt="X" />
-  </a>
-</p>
+<a href="mailto:sumitdixit00007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=020617" alt="Email" />
+</a>
+<a href="https://timus.co.in">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=020617" alt="Portfolio" />
+</a>
+<a href="https://github.com/Sumitdixit2">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=020617" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/sumitdixit-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=020617" alt="LinkedIn" />
+</a>
+<a href="https://x.com/SumitDixit00007">
+  <img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=38BDF8&labelColor=020617" alt="X" />
+</a>
 
 </div>
 
----
+<br />
 
-## Focus
+## SYSTEM / IDENTITY
 
-I am working toward becoming a backend-focused engineer who understands how real systems are designed, shipped, observed, and maintained.
+```txt
+role      : Backend Developer
+status    : 2nd-year BCA student at VIPS College, GGSIPU
+direction : backend engineering, scalable web apps, infrastructure fundamentals
+signal    : building production-minded systems through projects and self-study
+```
 
-Current areas of focus:
+I am focused on the backend layer of web applications: APIs, authentication, RBAC, multi-tenant flows, database-backed services, caching, rate limiting, logging, and deployment-ready architecture.
 
-- REST API design with clear structure, validation, and predictable behavior
-- Authentication, authorization, and role-based access control
-- Multi-tenant application architecture
-- PostgreSQL schema design and backend data modeling
-- Redis caching and rate limiting strategies
-- Logging, activity tracking, and accountability systems
-- Docker, Nginx, Linux essentials, and VPS deployment
-- CI/CD with GitHub Actions
-- Payment system implementation and production engineering concepts
+My goal is to grow into a backend-focused engineer with strong foundations in system design, DSA, DevOps, and scalable application architecture while staying capable on the frontend when needed.
 
----
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
-## Technical Stack
+## CURRENT BUILD CONTEXT
 
-### Languages
+| Area | Current Focus |
+|---|---|
+| API layer | REST API structure, validation, route organization, predictable behavior |
+| Auth and access | Authentication systems, authorization, RBAC, permission modeling |
+| Data layer | PostgreSQL schema design, backend data modeling, query structure |
+| Reliability | Redis caching, rate limiting, activity tracking, logging concepts |
+| Infrastructure | Docker, Nginx, Linux essentials, VPS deployment basics |
+| Engineering growth | CI/CD with GitHub Actions, payments, DevOps fundamentals, system design |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=38BDF8)
+```txt
+backend.focus -> api_design | auth | rbac | postgres | redis | deployment
+learning.next -> ci/cd | vps | payments | system_design | devops | dsa
+```
 
-### Backend
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=22C55E)
-![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=flat-square&logo=express&logoColor=F8FAFC)
-![Zod](https://img.shields.io/badge/Zod-0F172A?style=flat-square&logo=zod&logoColor=38BDF8)
+## STACK MAP
 
-### Databases, Caching, and Infrastructure
+<table>
+  <tr>
+    <td><strong>Runtime / API</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=22C55E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-020617?style=flat-square&logo=express&logoColor=F8FAFC" alt="Express.js" />
+      <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Zod-020617?style=flat-square&logo=zod&logoColor=38BDF8" alt="Zod" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Layer</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-020617?style=flat-square&logo=redis&logoColor=EF4444" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Infra / Delivery</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=38BDF8" alt="Docker" />
+      <img src="https://img.shields.io/badge/Nginx-020617?style=flat-square&logo=nginx&logoColor=22C55E" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=FACC15" alt="Linux" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-020617?style=flat-square&logo=githubactions&logoColor=38BDF8" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Testing / Client Support</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vitest-020617?style=flat-square&logo=vitest&logoColor=A3E635" alt="Vitest" />
+      <img src="https://img.shields.io/badge/Supertest-020617?style=flat-square&logo=checkmarx&logoColor=38BDF8" alt="Supertest" />
+      <img src="https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=F8FAFC" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Axios-020617?style=flat-square&logo=axios&logoColor=8B5CF6" alt="Axios" />
+    </td>
+  </tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![Redis](https://img.shields.io/badge/Redis-0F172A?style=flat-square&logo=redis&logoColor=EF4444)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=38BDF8)
-![Nginx](https://img.shields.io/badge/Nginx-0F172A?style=flat-square&logo=nginx&logoColor=22C55E)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=FACC15)
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
-### Testing and Frontend Support
+## FEATURED SYSTEM / PROJECTS HUB
 
-![Vitest](https://img.shields.io/badge/Vitest-0F172A?style=flat-square&logo=vitest&logoColor=A3E635)
-![Supertest](https://img.shields.io/badge/Supertest-0F172A?style=flat-square&logo=checkmarx&logoColor=38BDF8)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=F8FAFC)
-![Axios](https://img.shields.io/badge/Axios-0F172A?style=flat-square&logo=axios&logoColor=8B5CF6)
+> Backend-focused project and agency management platform designed around multi-tenant architecture, RBAC, and production-style API patterns.
 
-### Currently Learning
+| System Layer | Implementation Direction |
+|---|---|
+| Domain | Agency project management, clients, milestones, accountability |
+| Architecture | Multi-tenant structure with role-based access control |
+| API | Express.js backend with structured REST patterns |
+| Data | PostgreSQL-backed application data |
+| Cache | Redis caching for backend performance patterns |
+| Edge / Infra | Nginx reverse proxy and deployment learning |
+| Controls | IP fixed-window rate limiting and user token-bucket limiting |
+| Visibility | Activity tracking, admin dashboards, client dashboards |
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=flat-square&logo=githubactions&logoColor=38BDF8)
-![DevOps](https://img.shields.io/badge/DevOps%20Fundamentals-0F172A?style=flat-square&logo=gnometerminal&logoColor=38BDF8)
-![System Design](https://img.shields.io/badge/System%20Design-0F172A?style=flat-square&logo=diagramsdotnet&logoColor=38BDF8)
-
----
-
-## Featured Project
-
-### Projects Hub
-
-Backend-focused project and agency management platform designed around multi-tenant architecture, RBAC, and production-style API patterns.
+```txt
+request -> nginx -> express api -> auth/rbac -> postgres
+                              |-> redis cache
+                              |-> rate limiter
+                              |-> activity log
+```
 
 **Problem it solves:** agencies need one place to manage clients, projects, milestones, permissions, assignments, and accountability across different users and roles.
 
-**Core engineering areas:**
+**Core capabilities:**
 
 - Multi-tenant architecture for separating agency/client data
 - Role-based access control for admin and client workflows
 - CRUD systems for clients, projects, and milestones
 - Project assignment and accountability tracking
-- Admin and client dashboards
 - Activity tracking for visibility across actions
 - IP-based fixed-window rate limiting
 - User-based token bucket rate limiting for protected routes
-- Redis caching for backend performance patterns
-- Structured backend architecture using Express.js and PostgreSQL
-- Nginx reverse proxy setup as part of deployment learning
+- Redis caching and backend-focused architecture patterns
 
 **Tech stack:** Next.js, Express.js, PostgreSQL, Redis, Nginx
 
 **Links:** [GitHub](https://github.com/Sumitdixit2/projects-hub) | Live demo not available yet
 
----
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
-## Backend Engineering Interests
+## BACKEND SPECIALIZATION
 
-I am especially interested in the parts of backend engineering that make applications reliable beyond the happy path:
+| Track | What I am building toward |
+|---|---|
+| API architecture | Clean routing, validation boundaries, predictable contracts |
+| Auth systems | Login flows, protected routes, permissions, RBAC |
+| Multi-tenancy | Data separation, organization/client boundaries, scoped access |
+| Database design | PostgreSQL schemas, relationships, query structure |
+| Reliability | Caching, rate limiting, logs, activity trails |
+| Deployment | Dockerized services, Nginx, VPS, CI/CD fundamentals |
 
-- API architecture and route organization
-- Authentication and authorization systems
-- RBAC and permission modeling
-- Multi-tenant application design
-- Database schema design and query structure
-- Rate limiting strategies and abuse prevention
-- Caching with Redis
-- Logging, audit trails, and activity systems
-- Testing APIs with Vitest and Supertest
-- Deployment workflows with Docker, Nginx, VPS, and CI/CD
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
----
+## 2026 ROADMAP
 
-## 2026 Learning Roadmap
+```txt
+[01] deploy    -> VPS environments, Docker, Nginx
+[02] automate  -> GitHub Actions, CI/CD pipelines
+[03] secure    -> auth hardening, RBAC, rate limiting, payments
+[04] scale     -> caching, database design, backend architecture
+[05] reason    -> DSA, system design, production tradeoffs
+[06] contribute-> open-source issues, docs, backend tooling
+```
 
-My roadmap is focused on becoming stronger at backend architecture and production engineering:
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
-- Build and deploy backend systems on VPS environments
-- Set up CI/CD pipelines with GitHub Actions
-- Learn practical DevOps fundamentals
-- Implement payment systems safely
-- Study scalable backend architecture patterns
-- Build stronger system design foundations
-- Improve DSA and problem-solving consistency
-- Start contributing to open-source projects
-
----
-
-## GitHub Activity
+## GITHUB TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumitdixit2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitdixit2&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumitdixit2&theme=github_dark" width="100%" alt="GitHub profile summary" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitdixit2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumitdixit2&theme=github_dark" height="180" alt="GitHub stats summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumitdixit2&theme=github_dark" height="180" alt="Top languages by repository" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitdixit2&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=BAE6FD" height="180" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitdixit2&theme=react-dark&hide_border=true&bg_color=020617&color=BAE6FD&line=38BDF8&point=22C55E&area=true&area_color=0EA5E9" width="100%" alt="GitHub activity graph" />
 
 </div>
 
----
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
-## Open Source Direction
+## OPEN SOURCE VECTOR
 
-I have not started contributing to open source seriously yet, but I am preparing for it by improving my backend fundamentals and project documentation.
+I have not started contributing to open source seriously yet, but I am preparing for it by improving my backend fundamentals, project structure, and documentation habits.
 
 Areas I want to contribute to:
 
 - Backend tooling and API-focused projects
 - Documentation improvements
-- Beginner-friendly issues in JavaScript/TypeScript projects
+- Beginner-friendly JavaScript/TypeScript issues
 - Developer experience improvements around setup, testing, and deployment
 
----
+<img src="./assets/blueprint-divider.svg" alt="" width="100%" />
 
-## Contact
+## CONTACT / SIGNALS
 
 I am open to backend internships, startup opportunities, and learning-focused engineering roles where I can grow around backend architecture, scalability, DevOps, and production engineering.
 
-- Email: [sumitdixit00007@gmail.com](mailto:sumitdixit00007@gmail.com)
-- Portfolio: [timus.co.in](https://timus.co.in)
-- GitHub: [Sumitdixit2](https://github.com/Sumitdixit2)
-- LinkedIn: [sumitdixit-dev](https://www.linkedin.com/in/sumitdixit-dev/)
-- Twitter/X: [@SumitDixit00007](https://x.com/SumitDixit00007)
-
----
+| Channel | Link |
+|---|---|
+| Email | [sumitdixit00007@gmail.com](mailto:sumitdixit00007@gmail.com) |
+| Portfolio | [timus.co.in](https://timus.co.in) |
+| GitHub | [Sumitdixit2](https://github.com/Sumitdixit2) |
+| LinkedIn | [sumitdixit-dev](https://www.linkedin.com/in/sumitdixit-dev/) |
+| Twitter/X | [@SumitDixit00007](https://x.com/SumitDixit00007) |
 
 <div align="center">
 
-### Building reliable backend systems, one project at a time.
+```txt
+building reliable backend systems, one project at a time
+```
 
 </div>

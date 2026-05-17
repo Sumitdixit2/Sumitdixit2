@@ -1,5 +1,30 @@
-<!-- HERO BANNER PLACEHOLDER -->
-<!-- Add your own lightweight banner later: blueprint grid, terminal strip, architecture sketch, or project screenshot. -->
+<!-- ========================= HERO SECTION ========================= -->
+
+<!-- HERO BANNER -->
+<!--
+Recommended Size:
+1600x500 or 1600x600
+
+Ideas:
+- Blueprint grid background
+- Backend architecture illustration
+- Terminal + infrastructure aesthetic
+- Dark engineering style banner
+- Your name + backend engineer branding
+
+Markdown Example:
+![Hero Banner](./assets/banner.png)
+-->
+
+<!-- HERO GIF (OPTIONAL) -->
+<!--
+Add a subtle coding / terminal / architecture GIF below the banner.
+
+Example:
+<p align="center">
+  <img src="./assets/hero.gif" width="85%" />
+</p>
+-->
 
 # Sumit Dixit
 
@@ -19,6 +44,20 @@ Open to **backend internships**, **full-stack internships**, and learning-focuse
 
 ## About
 
+<!-- ABOUT VISUAL -->
+<!--
+Add:
+- Your workspace setup image
+- System architecture sketch
+- Tech-themed visual
+- Backend roadmap graphic
+
+Example:
+<p align="center">
+  <img src="./assets/about-visual.png" width="80%" />
+</p>
+-->
+
 I like working close to the backend layer: designing REST APIs, modeling data, handling authentication and permissions, adding caching, and thinking through how systems behave beyond the happy path.
 
 Right now, I am focused on becoming a stronger backend engineer with practical understanding of:
@@ -33,6 +72,18 @@ Right now, I am focused on becoming a stronger backend engineer with practical u
 ---
 
 ## Tech Stack
+
+<!-- TECH STACK VISUAL -->
+<!--
+Optional:
+Add:
+- Animated stack GIF
+- Floating tech icons image
+- Architecture layers diagram
+
+Example:
+![Tech Stack Visual](./assets/stack-map.png)
+-->
 
 **Languages:** JavaScript, TypeScript  
 **Backend:** Node.js, Express.js, Zod, REST APIs  
@@ -49,8 +100,60 @@ Right now, I am focused on becoming a stronger backend engineer with practical u
 
 Backend-focused agency and project management platform built around multi-tenant architecture and role-based access control.
 
-<!-- PROJECT DEMO GIF PLACEHOLDER -->
-<!-- Add a short walkthrough GIF, architecture screenshot, or dashboard preview when available. -->
+<!-- ========================= PROJECT MEDIA SECTION ========================= -->
+
+<!-- PROJECT HERO IMAGE -->
+<!--
+Recommended:
+1280x720
+
+Ideas:
+- Dashboard screenshot
+- Architecture overview
+- Landing page
+- API flow visualization
+
+Example:
+![Projects Hub](./assets/projects-hub-preview.png)
+-->
+
+<!-- PROJECT WALKTHROUGH GIF -->
+<!--
+Add a short demo GIF here.
+
+Recommended Length:
+10-25 seconds
+
+Show:
+- Login
+- Dashboard
+- Project creation
+- RBAC
+- Activity tracking
+
+Example:
+<p align="center">
+  <img src="./assets/projects-hub-demo.gif" width="100%" />
+</p>
+-->
+
+<!-- BACKEND ARCHITECTURE DIAGRAM -->
+<!--
+Example:
+![Architecture Diagram](./assets/backend-architecture.png)
+
+Could include:
+client -> nginx -> express -> redis/postgres
+-->
+
+<!-- API FLOW IMAGE -->
+<!--
+Optional:
+Add API request lifecycle visualization.
+
+Example:
+![API Flow](./assets/api-flow.png)
+-->
 
 **Problem it solves:** helps agencies manage clients, projects, milestones, permissions, assignments, and activity tracking in one place.
 
@@ -71,6 +174,20 @@ Backend-focused agency and project management platform built around multi-tenant
 
 ## Current Focus
 
+<!-- CURRENT LEARNING GIF -->
+<!--
+Ideas:
+- Terminal animation
+- DevOps animation
+- CI/CD pipeline GIF
+- Linux themed motion graphic
+
+Example:
+<p align="center">
+  <img src="./assets/current-focus.gif" width="85%" />
+</p>
+-->
+
 I am currently learning and building around:
 
 - CI/CD pipelines with GitHub Actions
@@ -85,8 +202,14 @@ I am currently learning and building around:
 
 ## GitHub Activity
 
-<!-- STATS SECTION PLACEHOLDER -->
-<!-- Keep this section minimal. Add/remove cards depending on what stays reliable over time. -->
+<!-- GITHUB HEADER IMAGE -->
+<!--
+Optional:
+Custom github telemetry banner
+
+Example:
+![GitHub Activity](./assets/github-banner.png)
+-->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumitdixit2&theme=github_dark" alt="GitHub profile summary" width="100%" />
@@ -97,9 +220,32 @@ I am currently learning and building around:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumitdixit2&theme=github_dark" alt="Top languages by repository" height="170" />
 </p>
 
+<!-- CONTRIBUTION GRAPH -->
+<!--
+Optional:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitdixit2&theme=react-dark" />
+</p>
+-->
+
 ---
 
 ## Contact
+
+<!-- CONTACT SECTION IMAGE -->
+<!--
+Optional:
+Add a subtle footer image.
+
+Ideas:
+- Blueprint footer
+- Terminal footer
+- Minimal cyber grid
+- Engineering themed separator
+
+Example:
+![Footer](./assets/footer-grid.png)
+-->
 
 I am open to backend internships, startup opportunities, and engineering roles where I can learn from real production systems.
 
@@ -109,5 +255,18 @@ I am open to backend internships, startup opportunities, and engineering roles w
 - X: [x.com/SumitDixit00007](https://x.com/SumitDixit00007)
 - Email: [sumitdixit00007@gmail.com](mailto:sumitdixit00007@gmail.com)
 
-<!-- SEPARATOR PLACEHOLDER -->
-<!-- Add a subtle custom divider later if you want, but keep the README readable without it. -->
+---
+
+<!-- FINAL FOOTER SIGNATURE -->
+<!--
+Optional:
+Add:
+- Animated footer GIF
+- Minimal engineering quote
+- Typing animation
+
+Example:
+<p align="center">
+  <img src="./assets/footer-terminal.gif" width="70%" />
+</p>
+-->

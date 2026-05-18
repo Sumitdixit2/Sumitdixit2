@@ -29,7 +29,7 @@ Example:
 # Sumit Dixit
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5laWduZDdjeWpxZTdnNnkzMjNmZjZ5djl4bHFhNmRqdTV0NGxzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AjyLmNcI5K53XlR0jR/giphy.gif" width="85%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5laWduZDdjeWpxZTdnNnkzMjNmZjZ5djl4bHFhNmRqdTV0NGxzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AjyLmNcI5K53XlR0jR/giphy.gif" width="40%" height="30%" />
 </p>
 
 **Backend Developer** focused on APIs, authentication, RBAC, multi-tenant systems, and scalable web application architecture.

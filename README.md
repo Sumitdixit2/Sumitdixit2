@@ -28,10 +28,6 @@ Example:
 
 # Sumit Dixit
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5laWduZDdjeWpxZTdnNnkzMjNmZjZ5djl4bHFhNmRqdTV0NGxzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AjyLmNcI5K53XlR0jR/giphy.gif" width="85%" height="30%" />
-</p>
-
 **Backend Developer** focused on APIs, authentication, RBAC, multi-tenant systems, and scalable web application architecture.
 
 I am a 2nd-year BCA student at **VIPS College, GGSIPU**, building backend-focused projects while learning production engineering fundamentals.

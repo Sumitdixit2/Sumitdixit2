@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Backend Architecture Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+  <img src="./assets/021317df49af5379dd120b99a202b40c.jpg" alt="Classic ChatGPT Client" width="60%" style="border-radius: 8px; margin-bottom: 20px;" />
 
   <br />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sumit+Dixit+%F0%9F%91%8B;Backend+Developer;Building+Scalable+APIs+%26+Systems;Focused+on+Authentication+%26+RBAC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sumit+Dixit+%F0%9F%91%8B;Backend+Developer;Building+Scalable+APIs+%26+Systems;Focused+on+Authentication+%26+RBAC" alt="Typing SVG" />
   </a>
 
   <br />
@@ -23,6 +23,10 @@
 <hr />
 
 ## 👨‍💻 About Me
+
+<div align="center">
+  <img src="./assets/e2c41617ee53c6bab073e128451df7b1.jpg" alt="Focus Mode" width="45%" style="border-radius: 8px; margin-bottom: 15px;" />
+</div>
 
 > [!NOTE]  
 > I like working close to the backend layer: designing REST APIs, modeling data, handling authentication and permissions, adding caching, and thinking through how systems behave beyond the happy path.
@@ -73,7 +77,7 @@ Right now, I am focused on becoming a stronger backend engineer with practical u
       </td>
       <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
         <a href="https://github.com/Sumitdixit2/projects-hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumitdixit2&repo=projects-hub&theme=tokyonight&bg_color=0f172a&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" alt="Projects Hub Repo Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumitdixit2&repo=projects-hub&theme=terminal&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Projects Hub Repo Card" />
         </a>
       </td>
     </tr>
@@ -83,6 +87,10 @@ Right now, I am focused on becoming a stronger backend engineer with practical u
 <hr />
 
 ## 🌱 Current Focus
+
+<div align="center">
+  <img src="./assets/5fec9211e2b6426fcc8811e498b9e40c.jpg" alt="Cyber Wizard" width="35%" style="border-radius: 8px; margin-bottom: 15px;" />
+</div>
 
 > [!IMPORTANT]
 > My primary learning goals right now are centered around scaling and delivering production-ready applications.
@@ -106,23 +114,4 @@ Right now, I am focused on becoming a stronger backend engineer with practical u
       </td>
     </tr>
   </table>
-</div>
-
-<hr />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumitdixit2&theme=tokyonight" alt="GitHub profile summary" width="100%" />
-  
-  <br/><br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumitdixit2&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumitdixit2&theme=tokyonight" alt="Top languages by repository" height="165" />
-</div>
-
-<hr />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&fontColor=0f172a&descAlignY=85&descAlign=60" />
 </div>

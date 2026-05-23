@@ -77,7 +77,7 @@ Right now, I am focused on becoming a stronger backend engineer with practical u
       </td>
       <td width="45%" style="border: none; vertical-align: middle; text-align: center;">
         <a href="https://github.com/Sumitdixit2/projects-hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumitdixit2&repo=projects-hub&theme=terminal&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Projects Hub Repo Card" />
+          <img src="assets/Screenshot 2026-05-23 130803.png" alt="Projects Hub Repo Card" />
         </a>
       </td>
     </tr>

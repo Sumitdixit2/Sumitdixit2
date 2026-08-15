@@ -16,7 +16,7 @@
   [![Email](https://img.shields.io/badge/Email-sumitdixit00007%40gmail.com-b91c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitdixit00007@gmail.com)
 
   <p align="center" style="margin-top: 15px;">
-    <i>I am a 2nd-year BCA student at <b>VIPS College, GGSIPU</b>, building backend-focused projects while learning production engineering fundamentals. <br> Open to <b>backend internships</b>, <b>full-stack internships</b>, and learning-focused engineering opportunities.</i>
+    <i>I am a 3rd-year BCA student at <b>VIPS College, GGSIPU</b>, building backend-focused projects while learning production engineering fundamentals. <br> Open to <b>backend internships</b>, <b>full-stack internships</b>, and learning-focused engineering opportunities.</i>
   </p>
 </div>
 
